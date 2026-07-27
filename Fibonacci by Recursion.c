@@ -13,7 +13,8 @@ int fib(int n)
 }
 
 int main()
-{   int n;
+{  
+    int n;
     scanf("%d", &n);
 
     int fibValue = fib(n);
